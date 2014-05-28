@@ -3,8 +3,8 @@
 #Author: Luka Pusic <pusic93@gmail.com>
 
 #REQUIRED PARAMS
-username="ekosuhartonocom" # without @
-password="ladiesman88"
+username="*USERNAME*" # without @
+password="*PASSWORD*"
 
 #EXTRA OPTIONS
 uagent="Mozilla/5.0" #user agent (fake a browser)
